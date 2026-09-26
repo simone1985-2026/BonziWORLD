@@ -42,7 +42,7 @@
         "min": 0,
         "default": "random"
       },
-      "defaultName": "Anonymous"
+      "defaultName": "User"
     },
     "private": {
       "char_limit": 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999,
@@ -59,6 +59,7 @@
         "backflip": 0,
         "color": 0,
         "asshole": 0,
+        "niggerify": 0,
         "triggered": 0,
         "linux": 0,
         "pitch": 0,
